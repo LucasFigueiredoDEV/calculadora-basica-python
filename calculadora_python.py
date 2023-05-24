@@ -3,7 +3,7 @@ Calculadora básica utilizando looping em while
 '''
 print('****Calculadora****')
 
-while True:
+while True: #looping iniciado
     numero1 = input('Digite o primeiro número: ')
     numero2 = input('Digite o segundo número: ')
     operador = input('Digite qual operador irá utilizar. "+ - / *": ')
